@@ -7,7 +7,7 @@ This is a simple Python application built using Tkinter and the Unsplash API to 
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
+- [Dependencies](#dependencies) 
 - [Contributing](#contributing)
 
 
