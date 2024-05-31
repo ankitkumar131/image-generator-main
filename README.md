@@ -2,7 +2,7 @@
 
 This is a simple Python application built using Tkinter and the Unsplash API to display and download images based on user-selected categories.
 
-## Table of Contents
+## Table of Contents 
 
 - [Features](#features)
 - [Setup](#setup)
