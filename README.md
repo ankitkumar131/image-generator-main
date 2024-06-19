@@ -11,6 +11,7 @@ This is a simple Python application built using Tkinter and the Unsplash API to 
 - [Contributing](#contributing)
 
 
+
 ## Features
 
 - Allows users to select image categories from a dropdown menu.
