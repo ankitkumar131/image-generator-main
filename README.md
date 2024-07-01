@@ -15,6 +15,7 @@ This is a simple Python application built using Tkinter and the Unsplash API to 
 
 ## Features
 
+
 - Allows users to select image categories from a dropdown menu.
 - Generates and displays random images based on the selected category.
 - Provides an option to download the displayed image.
