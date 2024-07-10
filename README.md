@@ -4,6 +4,7 @@ This is a simple Python application built using Tkinter and the Unsplash API to 
 
 ## Table of Contents 
 
+
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
